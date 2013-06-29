@@ -1,0 +1,4 @@
+freeConvectCavity
+
+This repository contains an OpenFOAM case to simulate free convection in a 
+closed cavity with a temperature difference across the sides.
